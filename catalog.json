@@ -1,0 +1,40 @@
+{
+        "home-assistant": {
+            "app_readme": "<p>home-assistant App for TrueNAS SCALE</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/home-assistant\">https://truecharts.org/charts/stable/home-assistant</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "home-automation"
+            ],
+            "description": "home-assistant App for TrueNAS SCALE",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/home-assistant",
+            "location": "/home/runner/_work/catalog/catalog/stable/home-assistant",
+            "latest_version": "25.1.9",
+            "latest_app_version": "2024.9.2",
+            "latest_human_version": "2024.9.2_25.1.9",
+            "last_update": "2024-09-23 17:54:00",
+            "name": "home-assistant",
+            "recommended": false,
+            "title": "Home-assistant",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/cdr/code-server",
+                "https://github.com/home-assistant/home-assistant",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/home-assistant",
+                "https://hub.docker.com/r/homeassistant/home-assistant"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.webp"
+        },
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp"
+        },
+    }
+}
