@@ -32,9 +32,6 @@
                 "https://hub.docker.com/r/homeassistant/home-assistant"
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.webp"
-        },
-            ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp"
-        },
-    },
+        }
+    }
 }
